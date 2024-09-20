@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Favorite Travel Destinations</title>
+</head>
+<body>
+    <header>
+        <h1>Favorite Travel Destinations</h1>
+    </header>
+    <main>
+        <section>
+            <h2> My top 3 places i want to visit in the future</h2>
+            <ul>
+                <li>Japan - Culture and technology blend seamlessly</li>
+                <li>New Zealand - Famous for breathtaking landscapes</li>
+                <li>Norway - Stunning northern lights</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>My gallery of Destinations</h2>
+            <figure>
+                <img src="images/japan.jpg" alt="A view of Mount Fuji in Japan" width="300">
+                <figcaption>Mount Fuji, Japan</figcaption>
+            </figure>
+            <figure>
+                <img src="images/new-zealand.jpg" alt="New Zealand's mountainous landscape" width="300">
+                <figcaption>Mountains in New Zealand</figcaption>
+            </figure>
+            <figure>
+                <img src="images/norway.jpg" alt="A stunning view of the Northern Lights in Norway" width="300">
+                <figcaption>Northern Lights in Norway</figcaption>
+            </figure>
+        </section>
+
+        <section>
+            <h2>If you are interested in learning more about these destinations --> </h2>
+            <p>Please consider reading more about these amazing destinations, visit <a href="https://www.lonelyplanet.com/" target="_blank">Lonely Planet</a> for detailed travel guides.</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>Created by HungNguyen | © 2024</p>
+    </footer>
+</body>
+</html>
